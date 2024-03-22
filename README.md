@@ -1,12 +1,15 @@
 ## Adafruit SHT4x Trinkey - USB Temperature and Humidity Sensor PCB
 
 <a href="http://www.adafruit.com/products/5896"><img src="assets/5896.jpg?raw=true" width="500px"><br/>
+Click here to purchase one from the Adafruit shop</a><br>
+<a href="http://www.adafruit.com/products/5912"><img src="assets/5912.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 PCB files for the Adafruit SHT4x Trinkey - USB Temperature and Humidity Sensor. 
 
 Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/5896
+* https://www.adafruit.com/product/5912
 
 ### Description
 
